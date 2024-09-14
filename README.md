@@ -30,20 +30,18 @@
 
 ## postman
        - get - http://localhost:8080/api/v1/customers
-       - post - http://localhost:8080/api/v1/customers
-        ```
+       - post - http://localhost:8080/api/v1/customers        
         {    
             "name": "Alex",
             "email": "alex@gmail.com",
             "age": 30
         }
-        ```
+        
 
-       - put - http://localhost:8080/api/v1/customers/1
-        ```
+       - put - http://localhost:8080/api/v1/customers/1        
         {    
             "name": "Helen",
             "email": "helen@gmail.com",
             "age": 26
         }
-        ```
+        
